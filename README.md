@@ -19,9 +19,9 @@ This is a simple console-based Pharmacy Management System implemented in C++. It
 
 1. **Compile the Code:**
    - Make sure you have a C++ compiler installed (e.g., g++).
-   - Compile the `major assignment.cpp` file:
+   - Compile the `Pharmacymanagement.cpp` file:
      ```bash
-     g++ "major assignment.cpp" -o pharmacy_management
+     g++ "Pharmacymanagement.cpp" -o pharmacy_management
      ```
 
 2. **Run the Program:**
