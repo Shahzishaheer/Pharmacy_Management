@@ -1,0 +1,8 @@
+# ... (other rules you might have) ...
+
+# Visual Studio Code settings
+vscode/launch.json
+.vscode/tasks.json
+
+# Executable file
+major assignment.exe
